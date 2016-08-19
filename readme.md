@@ -15,7 +15,7 @@ To download these files, you can simply click on the 'Download ZIP' button to th
 2. The OOP version of the same code is represented across the three files: list.rb, task.rb, and oop_todo.rb. As you'll note, list.rb and task.rb represent the two custom classes that the program relies upon, and oop_todo.rb is the main program that relies on those two classes. The only way to understand these three files is by looking at them together, as each file references the other two files. Examine all three files carefully and attempt to understand how the program is working. Run the oop_todo.rb program in the terminal, and the output should be identical to the output of procedural_todo.rb. The idea here is that we have two different styles of programming the same thing.
 
 3. Answer the following questions regarding oop_todo.rb:
-	a. Explain line 5. - You are creating a new instance of the List class and passing it into the variable list
+	a. Explain line 5. - **You are creating a new instance of the List class and passing it into the variable list**
     b. Explain line 8. - 
     c. Explain line 14.
     d. Explain line 31. 
