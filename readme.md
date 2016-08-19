@@ -16,8 +16,8 @@ To download these files, you can simply click on the 'Download ZIP' button to th
 
 3. Answer the following questions regarding oop_todo.rb:
 	a. Explain line 5. - **You are creating a new instance of the List class and passing it into the variable list**
-    b. Explain line 8. - 
-    c. Explain line 14.
+    b. Explain line 8. - **You are creating a new task called Feed the cat using the Task class (using add_task method) and adding it to the list that was created in line 5**
+    c. Explain line 14. - **You are printing out the 2nd task in the tasks array and calling the name method from the Task class**
     d. Explain line 31. 
 
 4. Answer the following questions:
