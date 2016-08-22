@@ -17,12 +17,12 @@ To download these files, you can simply click on the 'Download ZIP' button to th
 3. Answer the following questions regarding oop_todo.rb:
 	a. Explain line 5. - **You are creating a new instance of the List class and passing it into the variable list**
     b. Explain line 8. - **You are creating a new task called Feed the cat using the Task class (using add_task method) and adding it to the list that was created in line 5**
-    c. Explain line 14. - **You are printing out the 2nd task in the tasks array and calling the name method from the Task class**
-    d. Explain line 31. 
+    c. Explain line 14. - **You are accessing the list variable created and printing out the name of the second item in the list array**
+    d. Explain line 31. - **(I'm assuming line 32) This calls the tasks method on the list created and marks the task as complete using the destructive compete method**    
 
 4. Answer the following questions:
-    a. In your opinion, what advantages does oop_todo have over procedural_todo?
-    b. In your opinion, what advantages does procedural_todo have over oop_todo?
+    a. In your opinion, what advantages does oop_todo have over procedural_todo? - **OOP's advantages are that you are able to run the classes multiple times and create new instances of tasks over and over without having to run all the code at once. You can compartmentalize the code this way and only run certain methods you need without having to go through the whole code base**
+    b. In your opinion, what advantages does procedural_todo have over oop_todo?**Easier flow to read and understand**
 
 5. Let's add some more functionality to our application (the OOP version)! Add a new method to Task called toggle_complete! that will do the following: If the task is currently marked as complete, it will now be marked as incomplete, and if it is currently marked as incomplete, it will now be marked as complete. Test this functionality by adding more code to oop_todo.rb.
 
